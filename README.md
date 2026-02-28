@@ -7,9 +7,13 @@ All beginners should know these before moving forward
 - However there are so many interesting programm language, as C++, Typescript, GO, JAVA, C#, And my favorite Python. 
 
 ## Virtual Environment 
-
+- Virtual Envrionment, what is venv, Can I guess, you dont have idea, therefore I am.
+- If you choice Python in your programm language 
 
 ## Terminal
 
 
 ## Github 
+
+
+## Database
