@@ -67,6 +67,8 @@ You don't need more than that right now. The rest will come naturally when you s
 
 ## Github 
 
+## Gitignore.io
+
 
 ## Database
 
