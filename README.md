@@ -75,5 +75,6 @@ You don't need more than that right now. The rest will come naturally when you s
 ## AUTH = authentication
 
 
-## Lastly
+## Eventually
 - You have only one choices, if you want to hire anywhere. Learn and put effort for it.
+- if anyone has will explained for me earlier these things, I would be master, However you have best time to learn programming right now. You have internet and Artificial intelligence. I will tell, even if you have theses, do every code line for yourself, write and ask for internet/AI questions why you make this way and what more your ask for people, then you have better chance to learn faster and understand. 
