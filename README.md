@@ -75,7 +75,7 @@ You don't need more than that right now. The rest will come naturally when you s
 ## AUTH = authentication
 
 
-## Eventually
+## Eventually 💻 🖥
 - You have only one choices, if you want to hire anywhere. Learn and put effort for it.
 - If someone had explained theses things to me earlier, I would be a master by now. However Right now is the best time to learn programming, because we have internet and Artificial intelligence. However let me tell you, even with these tools, you must write line of code yourself. Ask the internet/AI  why a solution works this way and keep asking questions until you truly undesrtand it, then you have better chance to learn faster and understand.
 - Let me tell you, enjoy your journey and make better projects everytime when you coding, because This is only way where you really learning. 
