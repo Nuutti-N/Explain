@@ -68,6 +68,7 @@ You don't need more than that right now. The rest will come naturally when you s
 ## Github 
 
 ## Gitignore.io
+- Gitignore.io is app, where you can find everything what you need to put .gitinogre at your project
 
 ## Multiple Files/File Structure
 
